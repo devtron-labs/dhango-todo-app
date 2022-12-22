@@ -89,7 +89,7 @@ DATABASES = {
         'NAME': 'todo-db',
         'USER': 'postgres',
         'PASSWORD': 'kunal123',
-        'HOST': 'postgresql-devrel',
+        'HOST': 'postgresql',
     }
 }
 
