@@ -1,7 +1,6 @@
 from django.db import models
 
 # Create your models here.
-
 class Todo(models.Model):
-    content = models.TextField() # a column where we'll store the todo tasks 
-
+    content = models.TextField() 
+    # a column where we'll store the todo tasks 
