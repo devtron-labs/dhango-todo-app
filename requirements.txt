@@ -2,6 +2,7 @@ Django
 filelock
 fonttools
 psycopg2
+psycopg2-binary
 python-dateutil
 requests
 sqlparse
